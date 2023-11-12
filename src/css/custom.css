@@ -3,18 +3,18 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
- @import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Orbit&display=swap');
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 90%;
-  --ifm-font-family-base: 'Gowun Dodum';
+  --ifm-color-primary: #1e69f4;
+  --ifm-color-primary-dark: #7caffc;
+  --ifm-color-primary-darker: #2842c2;
+  --ifm-color-primary-darkest: #0e20e7;
+  --ifm-color-primary-light: #2a7fff;
+  --ifm-color-primary-lighter: #48aaf0;
+  --ifm-color-primary-lightest: #8bcfec;
+  --ifm-code-font-size: 100%;
+  --ifm-font-family-base: 'Orbit';
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 

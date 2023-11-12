@@ -10,7 +10,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Keyword 1',
+    title: 'Discover Insights from Relation',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Keyword 2',
+    title: 'Creative Solution by Generative AI',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Keyword 3',
+    title: 'Data Visualization',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>

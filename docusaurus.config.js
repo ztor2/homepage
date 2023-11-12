@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Jerry Kang',
-  tagline: 'Connecting People with Data Science.',
-  favicon: 'img/favicon.ico',
+  tagline: 'Connecting People with Data Science',
+  favicon: 'img/favicon_laptop.ico',
 
   // Set the production url of your site here
   url: 'https://ztor2.github.io',
@@ -67,7 +67,7 @@ const config = {
         title: 'Jerry Kang',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo_laptop.png',
         },
         items: [
           {
